@@ -29,9 +29,19 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
 ### I Build Intelligent Systems With
 
 <p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-0DBD8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastMCP-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A2A-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
 </p>
 
 ### I Build Scalable Applications With
@@ -81,6 +91,10 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
 
 <a href="mailto:dhevirnikhila@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/_.nikhilaaa._/?hl=en">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
