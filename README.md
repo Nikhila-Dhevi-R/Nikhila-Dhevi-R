@@ -77,7 +77,7 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
   - Semi Finalist — ET Generative AI Hackathon
   - Technical Coordinator @ Innovators Quest (VIT)
 ---
-# 🌐 Connect With Me
+# Connect With Me
 
 <p>
 
@@ -99,9 +99,5 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
 
 </p>
 
----
-<p align="center">
 
-![](https://komarev.com/ghpvc/?username=Nikhila-Dhevi-R&style=for-the-badge)
 
-</p>
