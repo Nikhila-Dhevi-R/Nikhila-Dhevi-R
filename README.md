@@ -23,7 +23,7 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
 ### I code in
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,py" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
 </p>
 
 ### I Build Intelligent Systems With
