@@ -18,7 +18,7 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
 **Fun fact:** I can never watch just one episode of a good series.
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
 ### I code in
 
