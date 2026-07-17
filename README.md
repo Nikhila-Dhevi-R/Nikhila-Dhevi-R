@@ -53,82 +53,41 @@ AI & Machine Learning undergraduate at VIT Vellore focused on designing intellig
 </p>
 
 ---
+# Contribution graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhila-Dhevi-R&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+# LeetCode Analytics
+![LeetCode Stats](https://leetcard.jacoblin.cool/NikhilA_006?theme=nord&font=Marcellus)
 
 ---
 
-# 📈 Contribution Graph
+# Achievements
 
-[![Nikhila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  - Second Prize — HERZION Hackathon
+  - Semi Finalist — ET Generative AI Hackathon
+  - Technical Coordinator @ Innovators Quest (VIT)
 ---
-
-# 🏅 Achievements
-
-🥈 Second Prize — HERZION Hackathon
-
-🏁 Participant — ET Generative AI Hackathon
-
-🚀 Built multiple AI-powered full stack applications
-
-💻 Technical Coordinator @ Innovators Quest (VIT)
-
----
-
-# 📚 Currently Learning
-
-- AI Agents
-- LangGraph
-- Advanced RAG
-- Vector Databases
-- Prompt Engineering
-- MLOps
-
----
-
 # 🌐 Connect With Me
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/nikhila-dhevi-r/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Nikhila-Dhevi-R">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dhevirnikhila@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
-
-## ✨ Quote
-
-> *"The best way to predict the future is to build it."*
-
----
-
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Nikhila-Dhevi-R&style=for-the-badge)
 
 </p>
