@@ -1,14 +1,4 @@
-<h1 align="center">
-Heyy, I'm Nikhila
-</h1>
-
-<h3 align="center">
-AI & Machine Learning Engineer • Open Source Contributor • Full Stack Developer • Hackathon Builder
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Building+LLM+Applications;Full+Stack+Developer;Always+Learning+🚀" />
-</p>
+<img width="2172" height="724" alt="Tech-Enhanced Glowing Globe Banner" src="https://github.com/user-attachments/assets/e6de6f49-52d7-4aad-9217-0a88523c54c5" />
 
 ---
 ## About Me
