@@ -3,7 +3,7 @@ Heyy, I'm Nikhila
 </h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer • Full Stack Developer • Hackathon Builder
+AI & Machine Learning Engineer • Open Source Contributor • Full Stack Developer • Hackathon Builder
 </h3>
 
 <p align="center">
