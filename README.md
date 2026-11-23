@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="Tech-Enhanced Glowing Globe Banner" src="https://github.com/user-attachments/assets/e6de6f49-52d7-4aad-9217-0a88523c54c5" />
+<img width="2172" height="724" alt="Nikhila’s Futuristic Tech Portfolio" src="https://github.com/user-attachments/assets/8a5be0ae-6fcf-4ab4-a057-39f3402e6aa0" />
+
 
 ---
 ## About Me
